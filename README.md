@@ -126,7 +126,7 @@ But even with the highest image weight, the new image will only be somewhat simi
     <td><img src="https://user-images.githubusercontent.com/65092569/187084593-906b5829-53d8-47f8-9eaf-3c487192385b.png" width="800"></td>
   </tr>
   <tr>
-    <td>0.25</td>
+    <td>100</td>
     <td>https://s.mj.run/9zHMEyu_73k Cave --iw 100 --uplight --ar 16:9</td>
     <td><img src="https://user-images.githubusercontent.com/65092569/187084824-bb1237f7-f547-4dca-a162-3770a7b28d08.png" width="800"></td>
   </tr>
